@@ -11,4 +11,3 @@ So, I try getting better day by day...
 
 Please, feel free to contact me!🤳💼
 
-My TryHackMe profile : https://tryhackme.com/profile
