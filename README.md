@@ -11,4 +11,4 @@ So, I try getting better day by day...
 
 Please, feel free to contact me!🤳💼
 
-My TryHackMe profile : <script src="https://tryhackme.com/badge/131180"></script>
+My TryHackMe profile : https://tryhackme.com/badge/131180"
